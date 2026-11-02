@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1>Hi, I'm LucasMaidana</h1>
+<h1>Hi, I'm Lucas Maidana</h1>
 <h3>Software Engineering · Backend · Cloud &amp; DevOps</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=1000&amp;color=31BA8B&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+software+from+code+to+cloud;Java+%7C+Spring+Boot+%7C+Docker+%7C+AWS;Learning+by+building+real+projects" alt="Typing animation" />
@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm a **Computer Science student at Universidad Politécnica de Madrid (UPM)**, based in Madrid, Spain.
+I'm a **Computer Science student at Universidad Politécnica de Madrid (UPM)**.
 
 I enjoy building software, from designing backend services to testing, containerizing and deploying applications. My main interests are **backend engineering, cloud infrastructure and DevOps**.
 
